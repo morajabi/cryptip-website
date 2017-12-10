@@ -2,7 +2,7 @@ import styled from 'styled-components'
 import { rem } from '../utils/rem'
 
 const Container = styled.div`
-  width: ${rem(1180)};
+  max-width: ${rem(1180)};
   margin: 0 auto;
   padding-right: ${rem(20)};
   padding-left: ${rem(20)};

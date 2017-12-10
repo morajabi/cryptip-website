@@ -6,6 +6,9 @@ module.exports = {
     `gatsby-plugin-react-helmet`,
     `gatsby-plugin-react-next`,
     `gatsby-plugin-styled-components`,
+
+    // ...
+    `gatsby-plugin-sitemap`,
     `gatsby-plugin-netlify`,
   ],
 }
